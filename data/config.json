@@ -1,0 +1,100 @@
+{
+    "title": "Claudia Blog",
+    "layout_style": "overflow",
+    "palette": "orange",
+    "header": {
+        "title": "Claudia Givan",
+        "tagline": "Software developer",
+        "profile_img": "images/dsc_2426.jpg",
+        "profile_img_alt": "Author avatar",
+        "background": "dark",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Acasa",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "Mindest",
+                "url": "/mindset/",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Programare",
+                "url": "/style-guide/",
+                "style": "link"
+            },
+            {
+                "label": "Despre",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/",
+                "style": "icon",
+                "icon_class": "github",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/claudia-givan/",
+                "style": "icon",
+                "icon_class": "linkedin",
+                "new_window": true
+            },
+            {
+                "label": "DEV",
+                "url": "https://dev.to/",
+                "style": "icon",
+                "icon_class": "dev",
+                "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; Claudia Givan. Toate drepturile rezervate.",
+        "links": []
+    },
+    "domain": "Clau-Blog",
+    "favicon": "images/avatar.png"
+}
